@@ -11,7 +11,3 @@
 - ``CSS``
 - ``JS``
 
-# Autores
-
-| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/37356058?v=4]" width=115>
-
